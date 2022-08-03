@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 933,
+    "id" : "https://AnaisMazoue.github.io/DigitalExhbitionVienna5203/images/138/canvas/",
+    "label" : {
+      "none" : [ "138" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://AnaisMazoue.github.io/DigitalExhbitionVienna5203/images/138/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://AnaisMazoue.github.io/DigitalExhbitionVienna5203/images/138/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 30,
+              "height" : 42
+            }, {
+              "width" : 59,
+              "height" : 83
+            }, {
+              "width" : 117,
+              "height" : 165
+            }, {
+              "width" : 234,
+              "height" : 329
+            }, {
+              "width" : 467,
+              "height" : 657
+            }, {
+              "width" : 933,
+              "height" : 1313
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 933,
+            "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionVienna5203/images/138",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1313
+          } ],
+          "format" : "image/jpeg",
+          "width" : 933,
+          "id" : "https://AnaisMazoue.github.io/DigitalExhbitionVienna5203/images/138/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1313
+        },
+        "target" : "https://AnaisMazoue.github.io/DigitalExhbitionVienna5203/images/138/canvas/"
+      } ]
+    } ],
+    "height" : 1313
+  }, {
     "width" : 905,
     "id" : "https://AnaisMazoue.github.io/DigitalExhbitionVienna5203/images/117/canvas/",
     "label" : {
