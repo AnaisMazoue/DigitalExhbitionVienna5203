@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 19,
+    "height" : 32
+  }, {
+    "width" : 37,
+    "height" : 64
+  }, {
+    "width" : 74,
+    "height" : 127
+  }, {
+    "width" : 148,
+    "height" : 254
+  }, {
+    "width" : 295,
+    "height" : 507
+  }, {
+    "width" : 589,
+    "height" : 1014
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 589,
+  "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionVienna5203/images/11",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1014
+}
