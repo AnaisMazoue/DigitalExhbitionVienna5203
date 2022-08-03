@@ -1,0 +1,283 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionVienna5203/manifests/viennamanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Vienna5203",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://9a63d722-d752-4717-943a-e30885459573",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f1b4d90d-1633-4153-88c4-d1afb15ccb65",
+      "@type" : "sc:Canvas",
+      "label" : "f. 1r",
+      "height" : 1298,
+      "width" : 928,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://30f97f1b-fbe3-4a49-830b-fac8d5751461",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/7",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1298,
+          "width" : 928
+        },
+        "on" : "http://f1b4d90d-1633-4153-88c4-d1afb15ccb65"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0e952b84-0eff-4364-8fc2-5574f71f0551",
+      "@type" : "sc:Canvas",
+      "label" : "f. 3r",
+      "height" : 1014,
+      "width" : 589,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ab28b18c-1622-4312-aa42-585f313d8d18",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/11/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/11",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1014,
+          "width" : 589
+        },
+        "on" : "http://0e952b84-0eff-4364-8fc2-5574f71f0551"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5ec26927-e577-4b18-af61-576d4965e346",
+      "@type" : "sc:Canvas",
+      "label" : "f. 14r",
+      "height" : 1317,
+      "width" : 937,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://51565439-ce30-4fe0-92c1-8b7280af9f61",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/35/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/35",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1317,
+          "width" : 937
+        },
+        "on" : "http://5ec26927-e577-4b18-af61-576d4965e346"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7e5ecde7-0256-442b-a701-c10ac48e0114",
+      "@type" : "sc:Canvas",
+      "label" : "f. 17v",
+      "height" : 1290,
+      "width" : 904,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://18836344-fc1e-4a1a-8635-7479016bef18",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/42/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/42",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1290,
+          "width" : 904
+        },
+        "on" : "http://7e5ecde7-0256-442b-a701-c10ac48e0114"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://02765106-d376-42c8-bc46-3c87da76301c",
+      "@type" : "sc:Canvas",
+      "label" : "f. 29v",
+      "height" : 1317,
+      "width" : 937,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a1188448-29c4-4c73-96c5-eb79a7c54360",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/65/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/65",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1317,
+          "width" : 937
+        },
+        "on" : "http://02765106-d376-42c8-bc46-3c87da76301c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3abf14b1-acab-4b12-b660-ff0585f20a1d",
+      "@type" : "sc:Canvas",
+      "label" : "f. 37v",
+      "height" : 1299,
+      "width" : 915,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://be5daafe-b47d-47fe-9769-c82d7618442b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/82/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/82",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1299,
+          "width" : 915
+        },
+        "on" : "http://3abf14b1-acab-4b12-b660-ff0585f20a1d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6349d02d-931b-49ba-9655-54dff96ab8e9",
+      "@type" : "sc:Canvas",
+      "label" : "f. 54r",
+      "height" : 1293,
+      "width" : 905,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://782af674-89dc-4d4d-b8c4-aa12b6df8add",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/117/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/117",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1293,
+          "width" : 905
+        },
+        "on" : "http://6349d02d-931b-49ba-9655-54dff96ab8e9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://780b287c-b986-43a3-92fe-76b012fe50db",
+      "@type" : "sc:Canvas",
+      "label" : "f. 66v",
+      "height" : 1313,
+      "width" : 933,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://809ce677-60aa-4d09-8f4e-37ebee8eaea4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/138/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/138",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1313,
+          "width" : 933
+        },
+        "on" : "http://780b287c-b986-43a3-92fe-76b012fe50db"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6e4120e8-3c86-45ce-9637-6cb2e0ddf0a8",
+      "@type" : "sc:Canvas",
+      "label" : "f. 70r",
+      "height" : 1293,
+      "width" : 892,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bd2cb17f-8538-4dc4-a866-ad96731969ae",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/145/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/145",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1293,
+          "width" : 892
+        },
+        "on" : "http://6e4120e8-3c86-45ce-9637-6cb2e0ddf0a8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a0b0e142-ff38-4185-bbd2-ea256da26a70",
+      "@type" : "sc:Canvas",
+      "label" : "f. 119r",
+      "height" : 1302,
+      "width" : 924,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ec1ea268-ce68-4ea8-a85c-2e8dfd4a3e32",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/241/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionVienna5203/images/241",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1302,
+          "width" : 924
+        },
+        "on" : "http://a0b0e142-ff38-4185-bbd2-ea256da26a70"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
