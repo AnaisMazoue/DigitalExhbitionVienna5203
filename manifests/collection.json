@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionVienna5203/manifests/viennamanifest.json",
-    "label" : "Vienna5203"
-  } ]
+  "items" : [ ]
 }
