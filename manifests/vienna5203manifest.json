@@ -1,0 +1,283 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionVienna5203/manifests/vienna5203manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Vienna5203",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://c498b8f9-03a1-40f4-949a-8d5733e97a91",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9c69bb40-d9db-4663-9171-a454016541b4",
+      "@type" : "sc:Canvas",
+      "label" : "f. 1r",
+      "height" : 1298,
+      "width" : 928,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7599bd6f-bb8f-4f2f-9c46-260948d97c8a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/vienna5203-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/vienna5203-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1298,
+          "width" : 928
+        },
+        "on" : "http://9c69bb40-d9db-4663-9171-a454016541b4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://94dafb4e-103f-4331-95b3-240120b03cdd",
+      "@type" : "sc:Canvas",
+      "label" : "f. 3r",
+      "height" : 1014,
+      "width" : 589,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f722e964-cec3-4b55-960d-33920b46ed44",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/vienna5203-3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/vienna5203-3",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1014,
+          "width" : 589
+        },
+        "on" : "http://94dafb4e-103f-4331-95b3-240120b03cdd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d01aa7a2-b066-4c10-9a4d-2069d51f115f",
+      "@type" : "sc:Canvas",
+      "label" : "f. 14r",
+      "height" : 1317,
+      "width" : 937,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2b6923e7-fe01-40cd-980b-d2950051648f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/vienna5203-14/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/vienna5203-14",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1317,
+          "width" : 937
+        },
+        "on" : "http://d01aa7a2-b066-4c10-9a4d-2069d51f115f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8f990867-6d85-4eba-9f2f-0ca454381198",
+      "@type" : "sc:Canvas",
+      "label" : "f. 17v",
+      "height" : 1290,
+      "width" : 904,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7bf09676-5bd4-4aea-9d8b-3fbdd59139f4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/vienna5203-17/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/vienna5203-17",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1290,
+          "width" : 904
+        },
+        "on" : "http://8f990867-6d85-4eba-9f2f-0ca454381198"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d99d42d1-5514-4235-ac8c-935233c5872b",
+      "@type" : "sc:Canvas",
+      "label" : "f. 29v",
+      "height" : 1299,
+      "width" : 923,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://90bfd382-1e88-4a98-8497-eba8f3d1df69",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/vienna5203-29/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/vienna5203-29",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1299,
+          "width" : 923
+        },
+        "on" : "http://d99d42d1-5514-4235-ac8c-935233c5872b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6aac73f5-a44b-4407-a18c-e3345e231045",
+      "@type" : "sc:Canvas",
+      "label" : "f. 37v",
+      "height" : 1299,
+      "width" : 915,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8b665d46-20dc-42eb-be03-a7a3ac613858",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/vienna5203-37/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/vienna5203-37",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1299,
+          "width" : 915
+        },
+        "on" : "http://6aac73f5-a44b-4407-a18c-e3345e231045"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4e7f93f9-e73e-4282-9241-896af1f56a48",
+      "@type" : "sc:Canvas",
+      "label" : "f. 54r",
+      "height" : 1293,
+      "width" : 905,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4274e5b1-cca3-4435-aa69-8ed9f1596429",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/vienna5203-54/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/vienna5203-54",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1293,
+          "width" : 905
+        },
+        "on" : "http://4e7f93f9-e73e-4282-9241-896af1f56a48"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1cb63a58-efb0-433d-949f-9d7414001f7b",
+      "@type" : "sc:Canvas",
+      "label" : "f. 66v",
+      "height" : 1313,
+      "width" : 933,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://33dbc40c-dd82-4e21-a5ef-ffe123e3b62a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/vienna5203-66/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/vienna5203-66",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1313,
+          "width" : 933
+        },
+        "on" : "http://1cb63a58-efb0-433d-949f-9d7414001f7b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ea888ed6-f110-48c7-b04b-d49f1ca7547f",
+      "@type" : "sc:Canvas",
+      "label" : "f. 70r",
+      "height" : 1293,
+      "width" : 892,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ecf94979-a395-4b23-85b6-e3523a68c49c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/vienna5203-70/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/vienna5203-70",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1293,
+          "width" : 892
+        },
+        "on" : "http://ea888ed6-f110-48c7-b04b-d49f1ca7547f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6e382027-1149-471a-ac1d-6c5aacf9c44a",
+      "@type" : "sc:Canvas",
+      "label" : "f. 119r",
+      "height" : 1302,
+      "width" : 924,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1d07bdd9-0a3c-4532-844c-d5f7e53d010d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/vienna5203-119/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/vienna5203-119",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1302,
+          "width" : 924
+        },
+        "on" : "http://6e382027-1149-471a-ac1d-6c5aacf9c44a"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
